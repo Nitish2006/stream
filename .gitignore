@@ -1,0 +1,11 @@
+# Virtual Environment
+.venv
+
+# Chroma DB
+chroma_db
+
+# Temporary files
+__pycache__
+
+# Environment variables
+.env
