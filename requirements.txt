@@ -3,3 +3,4 @@ openai
 tiktoken
 chromadb
 markitdown[all]
+protobuf==4.25.3
